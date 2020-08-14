@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Image](image.png)](https://mustakim.dev)
+[![Image](https://github.com/mustakimali/mustakimali/blob/master/image.png)](https://mustakim.dev)
