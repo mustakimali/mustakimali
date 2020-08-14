@@ -1,6 +1,5 @@
 <!--
 **mustakimali/mustakimali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -13,5 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
 
-[<img src="https://github.com/mustakimali/mustakimali/blob/master/image.png" width="854" />](https://mustakim.dev)
+```csharp
+throw new TimeoutException("Too much time wasted on this.");
+```
