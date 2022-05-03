@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
 
-```csharp
-throw new TimeoutException("Too much time wasted on this.");
-```
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mustakimali&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=mustakimali&layout=compact&hide=css,html&langs_count=10&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
