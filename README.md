@@ -13,6 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mustakimali&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+# Hi, I'm Mohammad Mustakim 👋
 
-[![My Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=mustakimali&layout=compact&hide=css,html&langs_count=10&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+I'm a Software Engineer based in England. Welcome to my GitHub, where the bugs are ironed out and the code is always fresh. Stay awhile and check out my projects, you might just find something you like. If you have ides, then lets collaborate!
+
+- I’m currently working on building payments product using 🦀 Rust in TrueLayer.
+- I have been building software primarily using C#, .NET for a while until Rust spoiled the fun of it.
+- I am too experienced to have strong opinions on many things - it always depends.
+- I'm a citizen of two worlds, 🇧🇩 Bangladesh and 🇬🇧 Britain, and it's still a surprise to me that the passport you carry determines how you're treated at the airport.
+- I have a lots of musical instruments that I can't play.
+
+<p align="left">
+  <a href="https://twitter.com/MustakimAli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mustakimali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/mustak.im/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
