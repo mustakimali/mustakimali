@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![us](https://user-images.githubusercontent.com/1546896/213879923-a31380e6-68c1-413f-970c-6e7b0641c615.png)
+
 # Hi, I'm Mohammad Mustakim 👋
 
 I'm a Software Engineer based in England. Welcome to my GitHub, where the bugs are ironed out and the code is always fresh. Stay awhile and check out my projects, you might just find something you like. If you have ides, then lets collaborate!
