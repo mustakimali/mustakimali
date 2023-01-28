@@ -21,7 +21,7 @@ I'm a Software Engineer based in England. Welcome to my GitHub, where the bugs a
 
 - I’m currently working on building payments product using 🦀 Rust in TrueLayer.
 - I have been building software primarily using C#, .NET for a while until Rust spoiled the fun of it.
-- I am too experienced to have strong opinions on many things - it always depends.
+- I am experienced enough to have no strong opinion on many things - it always depends.
 - I'm a citizen of two worlds, 🇧🇩 Bangladesh and 🇬🇧 Britain, and it's still a surprise to me that the passport you carry determines how you're treated at the airport.
 - I have a lots of musical instruments that I can't play.
 
