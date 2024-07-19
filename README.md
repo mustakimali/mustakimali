@@ -28,5 +28,4 @@ I'm a Software Engineer based in England. Welcome to my GitHub, where the bugs a
 <p align="left">
   <a href="https://twitter.com/MustakimAli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/mustakimali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/mustak.im/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
