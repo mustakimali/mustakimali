@@ -13,19 +13,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![us](https://user-images.githubusercontent.com/1546896/213879923-a31380e6-68c1-413f-970c-6e7b0641c615.png)
-
 # Hi, I'm Mohammad Mustakim 👋
 
-I'm a Software Engineer based in England. Welcome to my GitHub, where the bugs are ironed out and the code is always fresh. Stay awhile and check out my projects, you might just find something you like. If you have ides, then lets collaborate!
+Software Engineer crafting elegant solutions in the heart of England. Welcome to my corner of GitHub, where code meets creativity.
 
-- I’m currently working on building payments product using 🦀 Rust in TrueLayer.
-- I have been building software primarily using C#, .NET for a while until Rust spoiled the fun of it.
-- I am experienced enough to have no strong opinion on many things - it always depends.
-- I'm a citizen of two worlds, 🇧🇩 Bangladesh and 🇬🇧 Britain, and it's still a surprise to me that the passport you carry determines how you're treated at the airport.
-- I have a lots of musical instruments that I can't play.
+## 🚀 What I'm Up To
+
+- Building payment products at TrueLayer using 🦀 Rust
+- Starting and dropping tons of Side Projects
+- Converting coffee into code, one commit at a time
+
+## 💻 Tech Journey
+
+- In love with Rust
+- Deep experience with C# and .NET ecosystem
+- Pragmatic engineer who believes in "it depends" over dogma
+- Always learning, forever curious
+
+## ⚡ Fun Facts
+
+- Aspiring musician with a growing collection of instruments (still working on the "playing" part!)
+- Grew up in one of the most densely populated cities in the world, now living in a near-empty English village
+- Firm believer that the best code are stupidly simple and read from top to bottom, left to right with just enough jumping around
+- Hiking, comics, games and golf - not interested in any of these! 
+
+## 🤝 Let's Connect
+
+Got an interesting project in mind? Want to collaborate on something cool? Let's turn ideas into reality! Feel free to explore my repositories and reach out if something catches your eye.
 
 <p align="left">
-  <a href="https://twitter.com/MustakimAli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/mustakimali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
